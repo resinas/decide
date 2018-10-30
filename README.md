@@ -1,6 +1,8 @@
 Plataforma voto electrónico educativa
 =====================================
 
+Este es un fork para las prácticas de EGC.
+
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
 anonimicidad y el secreto del voto.
