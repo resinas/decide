@@ -1,7 +1,13 @@
 Plataforma voto electrónico educativa
 =====================================
 
-Este es un fork para las prácticas de EGC. En concreto, estamos probando los comandos de Git.
+Este es un fork para las prácticas de EGC. En concreto, estamos probando los comandos de Git:
+ - git add
+ - git commit
+ - git log
+ - git annotate
+ - git push
+ - git pull
 
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
