@@ -7,6 +7,7 @@ Este es un fork para las prácticas de EGC. En concreto, estamos probando los co
  - git commit
  - git log
  - git annotate
+ - git reset
  - git push
  - git pull
  - git remote
