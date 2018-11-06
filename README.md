@@ -1,7 +1,7 @@
 Plataforma voto electrónico educativa
 =====================================
 
-Este es un fork para las prácticas de EGC. En concreto, estamos probando los comandos de Git:
+Este es un fork para las prácticas de EGC. En concreto, estamos probando los comandos de Git durante las clases del 30 de octubre y 6 de noviembre:
  - git add
  - git commit
  - git log
