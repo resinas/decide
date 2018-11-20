@@ -60,7 +60,7 @@ class VotingUpdate(generics.RetrieveUpdateDestroyAPIView):
         if action == 'start':
             if voting.start_date:
                 msg = 'Voting already started'
-                st = status.HTTP_400_BAD_REQUEST
+                st = status.HTTP_200_OK
             else:
                 voting.start_date = timezone.now()
                 voting.save()
